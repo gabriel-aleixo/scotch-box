@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="ar-meta-container">
+    <div class="notice is-dismissible ar-notice hide">
+        <p></p>
+    </div>
+    <select name="ar_profiles" id="ar_profiles" class="ar-profile-selection" disabled onchange="selectedProfile(this.value)">
+        <option value="null">Loading</option>
+    </select>
+    <div id="optimize-container">
+        <div id="optimize-button-container" class="disable" onmouseleave="removeTooltip();" onmouseenter="addToolTip()">
+            <button
+                    aria-label="Sample text for your tooltip!"
+                    disabled   id="atomicreach-optimize-button"
+                    class="optimize button button-primary button-large disabled tooltip-toggle"
+            >
+                Optimize
+            </button>
+        </div>
+        <div id="revert-button-container">
+            <button
+                    type="button"
+                    id="atomicreach-optimize-revert-button"
+                    class="optimize revert-button hide"
+            >
+                Revert Optimized Words
+            </button>
+        </div>
+    </div>
+
+    <div class="document-feedback-container">
+        <div class="body-feedback-container">
+            <div class="accordion body-container hide">
+                <input type="checkbox" name="collapse" id="bodyPanel" checked="checked">
+                <div class="handle">
+                    <label for="bodyPanel">Improvements</label>
+                </div>
+                <div class="content">
+                    <ul class="document-feedback">
+                        <li class="list-group-item">Shorten your paragraphs</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="accordion title-container hide">
+                <input type="checkbox" name="collapse2" id="titlePanel">
+                <div class="handle">
+                    <label for="titlePanel">Title Insights</label>
+                </div>
+                <div class="content">
+                    <ul class="title-feedback">
+                        <li class="list-group-item">Shorten your paragraphs</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="accordion title-container">
+                <input type="checkbox" name="collapse3" id="settingPanel" checked="checked">
+                <div class="handle">
+                    <label for="settingPanel">Settings</label>
+                </div>
+                <div class="content">
+                    <ul class="setting-feedback">
+                        <li class="list-group-item">
+                            <div class="onoffswitch">
+                                <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch" checked />
+                                <label class="onoffswitch-label" for="myonoffswitch"></label>
+                            </div>
+                            <div class="switch-label"> Show underlining </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

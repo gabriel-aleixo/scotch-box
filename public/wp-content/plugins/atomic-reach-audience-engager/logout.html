@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+
+        #ar_disconnect{
+            background-color:#1EBFE8;
+            color:white;
+            text-shadow:none;
+            border-radius: 5px;
+            box-shadow:none;
+            border:transparent;
+            padding: 0 20px;
+        }
+        .atomic-header-logo{
+            color: #23282d;
+            font-size: 1.3em;
+            margin: 1em 0;
+        }
+
+        .atomic-header-connection{
+            color: #23282d;
+            font-size: 23px;
+            margin: 1em 0;
+        }
+        .box{
+            /*border-top: 2px solid #dedede;*/
+            display: block;
+            margin-top: 40px;
+            max-width: 400px;
+            padding: 20px;
+        }
+        .ar-fieldset > legend{
+            font-size: 1.1rem;
+        }
+        .ar-fieldset{
+            border: 1px solid #9f9f9f;
+            padding: 20px;
+        }
+        #ar_success{
+            font-size: 14px;
+            color: #0b850b;
+        }
+        .ar_hidden{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<div class="wrap">
+    <div class="icon32" id="icon-options-general"><br></div>
+    <div class="header">
+        <img style="width:45px;float:left;margin-right: 10px" src="<?php echo plugins_url('/', __FILE__); ?>custom/imgs/atomic-reach-logo.svg"/>
+        <p class="atomic-header-logo" style="float:left;font-weight:bolder" >atomic reach</p>
+    </div>
+    <div class="header">
+
+    </div>
+    <p class="atomic-header-connection" style="clear:both;margin-bottom:10px">You're now connected.</p>
+    <button class="button" id='ar_disconnect'>Log out</button>
+</div>
+<div class="box mt-4 border-top">
+    <fieldset class="ar-fieldset">
+        <legend  style="font-weight: bolder">Preferences</legend>
+        <fieldset class="radio-switch">
+            <legend style="font-weight: bolder">
+                Display feedback in the editor?
+            </legend>
+            <div class="radio-switch__inner">
+                <input type="radio" name="editorHighlight" id="editorHighlightOn" value="1">
+                <label for="editorHighlightOn">
+                    On
+                </label>
+
+                <input type="radio" name="editorHighlight" id="editorHighlightOff" value="0">
+                <label for="editorHighlightOff">
+                    Off
+                </label>
+            </div>
+        </fieldset>
+    </fieldset>
+    <p id="ar_success" class="ar_hidden">Saved!</p>
+</div>
+</body>
+</html>

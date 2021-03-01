@@ -1,0 +1,39 @@
+<div id="AW-notLoggedIn">
+    <div id="aw-signIn">
+        <h2>Sign In</h2>
+        <form id="aw-signInForm">
+            <input class="guestInput" id="aw-signInEmail" type="email" placeholder="Enter your email address" autocomplete="off" readonly onfocus="this.removeAttribute('readonly');"/>
+            <input class="guestInput" id="aw-signInPassword" type="password" placeholder="Enter your password" autocomplete="off"/>
+
+            <button class="AWguestSubmitBtn btn" type="submit" id="aw-signInFormSubmit"> Sign In  <i style="display: none;" class="awloadingIcon fa fa-circle-o-notch fa-spin"></i></button>
+            <p class="howto" style="text-align: center; margin: 0;"><a style="margin-left: 50px;" href="http://score.atomicreach.com/account/forgot-password"
+                                                                      target="_blank">Forgot
+                Password?</a></p>
+            <a class="AWguestSubmitBtn btn" type="button" href="http://my.atomicreach.com/?wordpress=1" target="_blank" id="aw-goTosignUpForm"> Sign Up <i style="display: none;" class="awloadingIcon fa fa-circle-o-notch fa-spin"></i></a>
+        </form>
+    </div>
+
+    <div id="aw-signUp" style="display: none">
+        <form id="aw-signUpForm">
+            <h2>Sign Up </h2>
+            <input class="guestInput" id="aw-signUpEmail" type="email" placeholder="Enter Your Email Address" autocomplete="off"/>
+            <input class="guestInput" id="aw-signUpPassword" type="password" placeholder="Type Your Password" autocomplete="off"/>
+            <input class="guestInput" id="aw-signUpPasswordReType" type="password" placeholder="Re-type Your Password" autocomplete="off" />
+            <br />
+            <label style="margin-left: 42px;">
+            <input type="checkbox" id="tos" value="1"/>
+                I agree to <a href="https://www.atomicreach.com/terms-of-use/" target="_blank">Terms of Use</a>:* </label>
+            <br />
+            <label style="margin-left: 42px;text-align: justify;width: 175px !important;display: inline-block;">
+            <input type="checkbox" id="awRecNnewsletter" value="1"/>
+                Receive Product Updates</label>
+            <br />
+            <button class="AWguestSubmitBtn btn" type="submit" id="aw-signUpFormSubmit"> Sign Up <i style="display: none;" class="awloadingIcon fa fa-circle-o-notch fa-spin"></i></button>
+            <a style="cursor: pointer" id="aw-goTosignInForm"><span class="dashicons dashicons-arrow-left-alt2"></span> Go Back</a>
+        </form>
+    </div>
+    <p id="aw-API-Error" style="color: #ff0000;"></p>
+    <a href="" id="ar-thankyou" style="display: none;" target="_blank"></a>
+</div>
+<div id="AW-StandBy" style="display: none;">
+</div>

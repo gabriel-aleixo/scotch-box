@@ -1,0 +1,1061 @@
+# Copyright (C) 2019 DinevThemes.com
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Writings\n"
+"Report-Msgid-Bugs-To: http://dinevthemes.com\n"
+"POT-Creation-Date: 2021-02-19 12:18+0800\n"
+"PO-Revision-Date: 2021-02-19 12:18+0800\n"
+"Last-Translator: dinevthemes <post@dinevthemes.com>\n"
+"Language-Team: DinevThemes.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2;esc_html_x\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:88
+msgid "Primary"
+msgstr ""
+
+#: functions.php:89
+msgid "Social Links"
+msgstr ""
+
+#: functions.php:241
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: searchform.php:8
+msgid "Search"
+msgstr ""
+
+#: customizer/config.php:22
+msgid "Site Background"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:7
+msgid "default"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:8
+msgid "gray"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:9
+msgid "green"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:10
+msgid "red"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:11
+msgid "orange"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:12
+msgid "hollow"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:13
+msgid "gray hollow"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:14
+msgid "green hollow"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:15
+msgid "red hollow"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:16
+msgid "orange hollow"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:28
+#: customizer/controls/dropdown-list.php:42
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:54
+msgid "Video"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:55
+msgid "Audio"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:56
+msgid "Image"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:66
+msgid "Post Boxed"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:67
+msgid "Metro Box"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:104
+msgid "Ultra Light"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:105
+msgid "Light"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:106
+msgid "Book"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:107
+msgid "Regular"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:108
+msgid "Medium"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:109
+msgid "Semi-Bold"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:110
+msgid "Bold"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:111
+msgid "Extra Bold"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:112
+msgid "Ultra Bold"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:122
+#: customizer/controls/dropdown-list.php:163
+msgid "12px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:123
+#: customizer/controls/dropdown-list.php:164
+#: customizer/controls/dropdown-list.php:177
+msgid "14px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:124
+#: customizer/controls/dropdown-list.php:165
+#: customizer/controls/dropdown-list.php:178
+msgid "16px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:125
+#: customizer/controls/dropdown-list.php:138
+#: customizer/controls/dropdown-list.php:166
+#: customizer/controls/dropdown-list.php:179
+msgid "18px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:126
+#: customizer/controls/dropdown-list.php:139
+#: customizer/controls/dropdown-list.php:167
+#: customizer/controls/dropdown-list.php:180
+msgid "20px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:127
+#: customizer/controls/dropdown-list.php:140
+msgid "22px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:128
+#: customizer/controls/dropdown-list.php:141
+msgid "24px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:142
+msgid "28px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:143
+msgid "30px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:144
+msgid "32px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:145
+msgid "34px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:146
+msgid "36px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:147
+msgid "38px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:148
+msgid "40px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:149
+msgid "42px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:150
+msgid "46px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:151
+msgid "48px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:152
+msgid "50px"
+msgstr ""
+
+#: customizer/controls/dropdown-list.php:162
+msgid "10px"
+msgstr ""
+
+#: customizer/controls/helper/sortable.php:17
+#: customizer/settings/front-page.php:45
+msgid "Page Content"
+msgstr ""
+
+#: customizer/controls/helper/sortable.php:18
+msgid "Blog Posts"
+msgstr ""
+
+#: customizer/controls/helper/sortable.php:66
+msgid "Featured Image"
+msgstr ""
+
+#: customizer/controls/helper/sortable.php:67
+msgid "Title"
+msgstr ""
+
+#: customizer/controls/helper/sortable.php:68
+msgid "Meta"
+msgstr ""
+
+#: customizer/controls/helper/sortable.php:69
+msgid "Content"
+msgstr ""
+
+#: customizer/controls/helper/sortable.php:70
+msgid "Read More"
+msgstr ""
+
+#: customizer/settings/blog.php:13
+msgid "Posts Options"
+msgstr ""
+
+#: customizer/settings/blog.php:14
+msgid ""
+"Here the view of posts options on an posts/archive page and single post."
+msgstr ""
+
+#: customizer/settings/blog.php:25
+msgid "Posts Page & Archives"
+msgstr ""
+
+#: customizer/settings/blog.php:37
+msgid "Posts Page Title"
+msgstr ""
+
+#: customizer/settings/blog.php:47
+msgid "Posts Page Description"
+msgstr ""
+
+#: customizer/settings/blog.php:58 customizer/settings/blog.php:74
+#: customizer/settings/blog.php:118
+msgid "Yes"
+msgstr ""
+
+#: customizer/settings/blog.php:59 customizer/settings/blog.php:75
+#: customizer/settings/blog.php:119
+msgid "No"
+msgstr ""
+
+#: customizer/settings/blog.php:61
+msgid "Show full posts content"
+msgstr ""
+
+#: customizer/settings/blog.php:62
+msgid "Do you want to show full posts content on the Blog Home page?"
+msgstr ""
+
+#: customizer/settings/blog.php:77 customizer/settings/blog.php:121
+msgid "Show Featured Image"
+msgstr ""
+
+#: customizer/settings/blog.php:89 customizer/settings/blog.php:133
+msgid "Above the title"
+msgstr ""
+
+#: customizer/settings/blog.php:90 customizer/settings/blog.php:134
+msgid "Below the title"
+msgstr ""
+
+#: customizer/settings/blog.php:92 customizer/settings/blog.php:136
+msgid "Where to show a Featured image?"
+msgstr ""
+
+#: customizer/settings/blog.php:106
+msgid "Single Post"
+msgstr ""
+
+#: customizer/settings/colors.php:15
+msgid "Primary color"
+msgstr ""
+
+#: customizer/settings/colors.php:16
+msgid "Applies to most design elements, body text, and headings."
+msgstr ""
+
+#: customizer/settings/colors.php:37
+msgid "Link text color"
+msgstr ""
+
+#: customizer/settings/colors.php:58
+msgid "Link text color on hover"
+msgstr ""
+
+#: customizer/settings/colors.php:79
+msgid "Meta text color"
+msgstr ""
+
+#: customizer/settings/colors.php:80
+msgid ""
+"Is applied to the to the secondary design elements, and meta text about the "
+"publication, such as date, author, etc.."
+msgstr ""
+
+#: customizer/settings/colors.php:97
+msgid "Primary menu: submenu background"
+msgstr ""
+
+#: customizer/settings/colors.php:118
+msgid "Buttons color"
+msgstr ""
+
+#: customizer/settings/colors.php:143
+msgid "Button color on hover"
+msgstr ""
+
+#: customizer/settings/colors.php:160
+msgid "Additional Color"
+msgstr ""
+
+#: customizer/settings/colors.php:161
+msgid "Applies to the fill color of some design elements."
+msgstr ""
+
+#: customizer/settings/fonts.php:12
+msgid "Fonts"
+msgstr ""
+
+#: customizer/settings/fonts.php:22
+msgid "General Font"
+msgstr ""
+
+#: customizer/settings/fonts.php:23
+msgid "General font which is used in the body of the site. Default: Roboto"
+msgstr ""
+
+#: customizer/settings/fonts.php:31 customizer/settings/fonts.php:132
+#: customizer/settings/fonts.php:226 customizer/settings/fonts.php:303
+msgid "Google Font Name"
+msgstr ""
+
+#: customizer/settings/fonts.php:32 customizer/settings/fonts.php:133
+#: customizer/settings/fonts.php:227 customizer/settings/fonts.php:304
+msgid "Choose a font name. Default: Roboto"
+msgstr ""
+
+#: customizer/settings/fonts.php:44 customizer/settings/fonts.php:108
+#: customizer/settings/fonts.php:253 customizer/settings/fonts.php:278
+#: customizer/settings/fonts.php:330 customizer/settings/fonts.php:369
+msgid "Font Size"
+msgstr ""
+
+#: customizer/settings/fonts.php:45 customizer/settings/fonts.php:331
+msgid "Set font-size. Default: 20px"
+msgstr ""
+
+#: customizer/settings/fonts.php:60
+msgid "Site Title & Tagline"
+msgstr ""
+
+#: customizer/settings/fonts.php:61
+msgid ""
+"Font size that used for Site Title and Tagline (look at the section called "
+"Site Identity)."
+msgstr ""
+
+#: customizer/settings/fonts.php:69
+msgid "Font Size for Site Title"
+msgstr ""
+
+#: customizer/settings/fonts.php:70
+msgid "Font size that used for Site Title. Default: 22px"
+msgstr ""
+
+#: customizer/settings/fonts.php:83
+msgid "Font Size for Tagline"
+msgstr ""
+
+#: customizer/settings/fonts.php:84
+msgid "Font size that used for Site Tagline. Default: 18px"
+msgstr ""
+
+#: customizer/settings/fonts.php:99
+#: template-parts/navigation/nav-bar-default.php:13
+msgid "Main Menu"
+msgstr ""
+
+#: customizer/settings/fonts.php:100
+msgid "Used for main menu."
+msgstr ""
+
+#: customizer/settings/fonts.php:109 customizer/settings/fonts.php:370
+msgid "Set font-size. Default: 18px"
+msgstr ""
+
+#: customizer/settings/fonts.php:124
+msgid "Headings"
+msgstr ""
+
+#: customizer/settings/fonts.php:145 customizer/settings/fonts.php:239
+#: customizer/settings/fonts.php:316
+msgid "Font Weight"
+msgstr ""
+
+#: customizer/settings/fonts.php:146
+msgid ""
+"Set font-weight. Default: 900/Ultra Bold. Important: Not all fonts support "
+"every font-weight."
+msgstr ""
+
+#: customizer/settings/fonts.php:159
+msgid "H1 Font Size"
+msgstr ""
+
+#: customizer/settings/fonts.php:160 customizer/settings/fonts.php:254
+msgid "Set font-size. Default: 40px"
+msgstr ""
+
+#: customizer/settings/fonts.php:173
+msgid "H2 Font Size"
+msgstr ""
+
+#: customizer/settings/fonts.php:174
+msgid "Set font-size. Default: 36px"
+msgstr ""
+
+#: customizer/settings/fonts.php:187
+msgid "H3 Font Size"
+msgstr ""
+
+#: customizer/settings/fonts.php:188
+msgid "Set font-size. Default: 32px"
+msgstr ""
+
+#: customizer/settings/fonts.php:201
+msgid "H4 Font Size"
+msgstr ""
+
+#: customizer/settings/fonts.php:202
+msgid "Set font-size. Default: 28px"
+msgstr ""
+
+#: customizer/settings/fonts.php:217
+msgid "Post Preview Heading"
+msgstr ""
+
+#: customizer/settings/fonts.php:218
+msgid "Heading for Post Preview that used for post titles on the blog page."
+msgstr ""
+
+#: customizer/settings/fonts.php:240
+msgid ""
+"Set font-weight. Default: Extra Bold. Important: Not all fonts support every "
+"font-weight."
+msgstr ""
+
+#: customizer/settings/fonts.php:269
+msgid "Page Title"
+msgstr ""
+
+#: customizer/settings/fonts.php:270
+msgid "Used for title of the single post/page."
+msgstr ""
+
+#: customizer/settings/fonts.php:279
+msgid "Set font-size. Default: 50px"
+msgstr ""
+
+#: customizer/settings/fonts.php:294
+msgid "Paragraph"
+msgstr ""
+
+#: customizer/settings/fonts.php:295
+msgid "Used for content text, tables, and lists."
+msgstr ""
+
+#: customizer/settings/fonts.php:317
+msgid ""
+"Set font-weight. Default: 400/Regular. Important: Not all fonts support "
+"every font-weight."
+msgstr ""
+
+#: customizer/settings/fonts.php:344
+msgid "Line Height"
+msgstr ""
+
+#: customizer/settings/fonts.php:345
+msgid "Set line-height. Default: 1.75"
+msgstr ""
+
+#: customizer/settings/fonts.php:360
+msgid "Post meta"
+msgstr ""
+
+#: customizer/settings/fonts.php:361
+msgid "Used for meta-text of the single post: author, date, categories etc."
+msgstr ""
+
+#: customizer/settings/front-page.php:12
+msgid "Homepage Sections"
+msgstr ""
+
+#: customizer/settings/front-page.php:13
+msgid ""
+"Note please: a static page should displayed on the homepage of your site."
+msgstr ""
+
+#: customizer/settings/front-page.php:23
+msgid "Visibility & Sorting"
+msgstr ""
+
+#: customizer/settings/front-page.php:32
+msgid "Set the visibility and order of the sections."
+msgstr ""
+
+#: customizer/settings/front-page.php:33
+msgid ""
+"Drag and drop to sort sections of the front page. To show or hide the "
+"section by clicking on the eye icon."
+msgstr ""
+
+#: customizer/settings/front-page.php:57
+msgid "Hide Page Title"
+msgstr ""
+
+#: customizer/settings/front-page.php:67
+#: customizer/settings/front-page.php:112
+msgid "Margin bottom (px)"
+msgstr ""
+
+#: customizer/settings/front-page.php:68
+#: customizer/settings/front-page.php:113
+msgid "Set the height of white space at the bottom after the section."
+msgstr ""
+
+#: customizer/settings/front-page.php:85
+msgid "Blog Section"
+msgstr ""
+
+#: customizer/settings/front-page.php:97
+msgid "Posts Number"
+msgstr ""
+
+#: customizer/settings/menu-bar.php:12
+msgid "Menu Bar"
+msgstr ""
+
+#: customizer/settings/menu-bar.php:23
+msgid "Add Search item"
+msgstr ""
+
+#: customizer/settings/menu-bar.php:32
+msgid "Add Night-mode item"
+msgstr ""
+
+#: customizer/settings/site-identity.php:12
+msgid "Hide Site Title"
+msgstr ""
+
+#: customizer/settings/site-identity.php:27
+msgid "Hide Tagline"
+msgstr ""
+
+#: customizer-upsell/class-customize.php:76
+msgid "Writings Pro"
+msgstr ""
+
+#: customizer-upsell/class-customize.php:77
+msgid "More customize options plus one-to-one support"
+msgstr ""
+
+#: customizer-upsell/class-customize.php:78
+#: inc/admin/partials/theme-dashboard-page.php:23
+#: inc/admin/partials/theme-dashboard-sidebar.php:37
+msgid "Get Pro"
+msgstr ""
+
+#: inc/block-patterns.php:18
+msgid "Writings Patterns"
+msgstr ""
+
+#: inc/block-patterns.php:31
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/icon-functions.php:38
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-functions.php:43
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/template-functions.php:153
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-functions.php:159
+msgid "Archives"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:36
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:53 inc/template-tags.php:60
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:56
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:63
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:90 template-parts/content-front-page.php:57
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/admin/welcome-screen.php:74
+msgid "Theme Dashboard"
+msgstr ""
+
+#: inc/admin/welcome-screen.php:74
+msgid "Theme Info"
+msgstr ""
+
+#: inc/admin/welcome-screen.php:103
+#, php-format
+msgid ""
+"Welcome and thanks for choosing %1$s! To help you get starter with the "
+"theme, please visit our <a href=\"%2$s\">welcome page</a>."
+msgstr ""
+
+#: inc/admin/welcome-screen.php:115
+#, php-format
+msgid ""
+"Did you know that there's a Premium version of %1$s with more great "
+"features? <a href=\"%2$s\">Click here to learn more</a> about %1$s Premium"
+msgstr ""
+
+#: inc/admin/welcome-screen.php:144
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/welcome-screen.php:148
+msgid "Support"
+msgstr ""
+
+#: inc/admin/welcome-screen.php:152
+msgid "Contribute"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-contribute.php:3
+#: inc/admin/partials/theme-dashboard-support.php:7
+msgid "review"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-contribute.php:4
+msgid "translate"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-contribute.php:5
+msgid "Writings Theme"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-contribute.php:9
+msgid "Do you like this Theme? There are ways in which you can your gratitude:"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-contribute.php:13
+#, php-format
+msgid "I will appreciate if you find a few minutes and leave a five stars %s."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-contribute.php:19
+#, php-format
+msgid "It would be great if you could share %s."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-contribute.php:25
+#, php-format
+msgid ""
+"Are you a blogger? I would be happy if you could write a blog post about %s."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-contribute.php:31
+#, php-format
+msgid "Eventually, you can make a %s of this theme into your native language."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-contribute.php:37
+msgid "Thanks so much! :)"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:23
+msgid "Front Page Setup"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:25
+msgid ""
+"Create a new by going to Pages > Add New. Give your page a name (Title "
+"field). In the same way create a blank page for the Blog Page."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:26
+msgid ""
+"Now you can go to Appearance > Customize > Homepage Settings and choose your "
+"new created Page as your Front Page."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:27
+msgid ""
+"When you have set a static page for your homepage displays, you can make "
+"some settings for the front page, go to Customizer > Front Page Sections."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:28
+msgid ""
+"The theme now provide its block pattern of recent posts, which you can use "
+"when create a Frontpage (assign a static page to be homepage displayed) or "
+"as recommended posts list at the end of post. "
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:34
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:36
+msgid ""
+"You can use of the Customizer to provide you with the theme options. Press "
+"the button below to open the Customizer and start making changes."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:38
+msgid "Customize Theme"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:43
+msgid "Recommended plugins"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:49
+msgid "Contact Form by WPForms"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:54
+msgid "The theme supports plugins that extend the block editor:"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:59
+msgid "Getwid"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:65
+msgid "Atomic Blocks"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:71
+msgid "CoBlocks"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-page.php:16
+msgid "Welcome to Writings!"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-page.php:17
+msgid "Version:"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-page.php:20
+msgid "Get more features and one-on-one support with Writings Pro theme."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-sidebar.php:17
+msgid "Demo Website"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-sidebar.php:19
+msgid ""
+"You can look live theme on the demo website. There you will also find a "
+"description of the main features of the theme."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-sidebar.php:24
+msgid "View Demo"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-sidebar.php:30
+msgid "Get More Features"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-sidebar.php:32
+msgid "Get more features and one-on-one support with Pro version."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-support.php:4
+msgid "forum"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-support.php:5
+msgid "Writings forum"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-support.php:6
+msgid "documentation"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-support.php:11
+msgid "Looking for help?"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-support.php:13
+msgid "Is here collected some resources that you may find helpful:"
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-support.php:19
+#, php-format
+msgid ""
+"If you have a general question related to WordPress, please post it on "
+"WordPress.org %s."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-support.php:26
+#, php-format
+msgid "If you have a theme specific question, please post it on %s."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-support.php:33
+#, php-format
+msgid "Before panic, please visit our %s pages."
+msgstr ""
+
+#: inc/admin/partials/theme-dashboard-support.php:41
+#, php-format
+msgid "If this theme is useful to you then leave your %s, please. Thank you!"
+msgstr ""
+
+#: template-parts/content-attachment.php:51
+msgid "Dimensions:"
+msgstr ""
+
+#: template-parts/content-attachment.php:56
+msgid "Camera:"
+msgstr ""
+
+#: template-parts/content-attachment.php:61
+msgid "Focal length:"
+msgstr ""
+
+#: template-parts/content-attachment.php:66
+msgid "Aperture:"
+msgstr ""
+
+#: template-parts/content-attachment.php:71
+msgid "ISO:"
+msgstr ""
+
+#: template-parts/content-attachment.php:76
+msgid "Shutter speed:"
+msgstr ""
+
+#: template-parts/content-attachment.php:84
+msgid "Time Stamp:"
+msgstr ""
+
+#: template-parts/content-attachment.php:94
+msgid "Download Full size"
+msgstr ""
+
+#: template-parts/content-front-page.php:43
+#: template-parts/content-preview.php:68 template-parts/content.php:81
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-header.php:46
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-header.php:59
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-preview.php:28
+msgid "Featured"
+msgstr ""
+
+#: template-parts/content-preview.php:34 template-parts/content-search.php:25
+#: template-parts/front-page/recent-post.php:33
+msgid "Untitled"
+msgstr ""
+
+#: template-parts/content-preview.php:61 template-parts/content.php:76
+#, php-format
+msgid "Continue reading%s"
+msgstr ""
+
+#: template-parts/content-search.php:16
+msgid "Post"
+msgstr ""
+
+#: template-parts/content-search.php:19
+msgid "Page"
+msgstr ""
+
+#: template-parts/footer/credits.php:10
+#, php-format
+msgid "%s Theme. "
+msgstr ""
+
+#: template-parts/footer/credits.php:10
+msgid "Writings"
+msgstr ""
+
+#: template-parts/footer/credits.php:12
+#, php-format
+msgid "Powered by %s."
+msgstr ""
+
+#: template-parts/footer/credits.php:12
+msgid "WordPress"
+msgstr ""
+
+#: template-parts/footer/social-links.php:11
+msgid "Social Links Menu"
+msgstr ""
+
+#: template-parts/navigation/nav-bar-default.php:16
+msgid "Primary Menu"
+msgstr ""
+
+#: template-parts/navigation/pagination.php:18
+#: template-parts/navigation/single-nav.php:15
+msgid "Previous"
+msgstr ""
+
+#: template-parts/navigation/pagination.php:19
+#: template-parts/navigation/single-nav.php:12
+msgid "Next"
+msgstr ""
+
+#: template-parts/navigation/pagination.php:22
+msgid "Posts navigation"
+msgstr ""
+
+#: template-parts/navigation/single-nav.php:13
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/navigation/single-nav.php:16
+msgid "Previous post:"
+msgstr ""

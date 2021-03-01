@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .adminbar-input{
+            width:100%;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        #ar_login_submit{
+            background-color:#1EBFE8;
+            color:white;
+            text-shadow:none;
+            border-radius: 5px;
+            box-shadow:none;
+            border:transparent;
+            width:100%;
+        }
+
+        .atomic-header-logo{
+            color: #23282d;
+            font-size: 1.3em;
+            margin: 1em 0;
+        }
+
+        .atomic-header-connection{
+            color: #23282d;
+            font-size: 23px;
+            margin: 1em 0;
+        }
+    </style>
+</head>
+<body>
+<div class="wrap">
+    <div class="icon32" id="icon-options-general"><br></div>
+    <div class="atomic-header">
+        <img style="width:45px;float:left;margin-right: 10px" src="<?php echo plugins_url('/', __FILE__); ?>custom/imgs/atomic-reach-logo.svg"/>
+        <p class="atomic-header-logo" style="float:left;font-weight:bolder" >atomic reach</p>
+    </div>
+    <p class="atomic-header-connection" style="clear:both;margin-bottom:10px">Sign In</>
+    <form id='ar_login_form' action="\" method="post" style="width:250px;">
+
+        <input type="hidden" name="ar-action" value="ar-login-form">
+
+        <label for="ar-login-email">Email Address:</label>
+        <input type="text" class="adminbar-input" name="ar-login-email" id="ar-login-email" placeholder="name@company.com" value="" required/>
+
+        <br/>
+        <label for="ar-login-password">Password:</label>
+        <input type="password" class="adminbar-input" name="ar-login-password" id="ar-login-password" required/>
+        <br/>
+        <p class="submit">
+            <input id='ar_login_submit' name="Submit" type="submit" class="button-primary" value="Sign in"/>
+        </p>
+        <p id='aw-API-Error' class="hidden error-message "></p>
+    </form>
+</div
+</body>
+</html>

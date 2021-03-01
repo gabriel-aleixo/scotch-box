@@ -1,0 +1,54 @@
+{
+  "name": "atomic-reach-audience-engager",
+  "version": "1.0.0",
+  "description": "===Atomic Reach===\r Contributors: atomicreach\r Donate link: https://www.atomicreach.com\r Tags: seo, post, content, quality, optimization, optimize, audience, sophistication, engagement, atomic reach, atomic writer\r Requires at least: 4.6\r Tested up to: 5.2\r Stable tag: 5.2\r License: GPLv2 or later\r License URI: http://www.gnu.org/licenses/gpl-2.0.html",
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "keywords": [
+    "seo",
+    "post",
+    "content",
+    "quality",
+    "optimization",
+    "optimize",
+    "audience",
+    "sophistication",
+    "engagement",
+    "atomic reach",
+    "atomic writer"
+  ],
+  "homepage": "https://www.atomicreach.com",
+  "repository": {
+    "type": "git",
+    "url": "https://atomic-reach.git.beanstalkapp.com/wordpress-plugin.git"
+  },
+  "bugs": {},
+  "main": "index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/react-fontawesome": "^0.1.8",
+    "@wordpress/api-fetch": "^3.7.0",
+    "@wordpress/components": "^8.5.0",
+    "@wordpress/compose": "^3.8.0",
+    "@wordpress/edit-post": "^3.9.0",
+    "@wordpress/element": "^2.13.1",
+    "@wordpress/i18n": "^3.7.0",
+    "@wordpress/keycodes": "^2.11.0",
+    "@wordpress/plugins": "^2.8.0"
+  },
+  "devDependencies": {
+    "@wordpress/data": "^4.12.0",
+    "@wordpress/scripts": "^6.2.0"
+  },
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build",
+    "lint:js": "wp-scripts lint-js",
+    "lint:pkg-json": "wp-scripts lint-pkg-json",
+    "test:unit": "wp-scripts test-unit-js",
+    "test:unit:help": "wp-scripts test-unit-js --help",
+    "test:unit:watch": "wp-scripts test-unit-js --watch"
+  }
+}

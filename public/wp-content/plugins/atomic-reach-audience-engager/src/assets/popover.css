@@ -1,0 +1,130 @@
+.ar-popover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1060;
+  max-width: 276px;
+  min-width: 200px;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: left;
+  text-align: start;
+  text-decoration: none;
+  text-shadow: none;
+  text-transform: none;
+  letter-spacing: normal;
+  word-break: normal;
+  word-spacing: normal;
+  white-space: normal;
+  line-break: auto;
+  font-size: .875rem;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid rgba(0,0,0,.2);
+  border-radius: .3rem;
+  animation: show-up 0.2s ease;
+}
+
+body:not(.is-fullscreen-mode)  .ar-popover{
+  margin-top: -32px;
+  margin-left: -160px;
+}
+
+@keyframes show-up {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.ar-popover .ar-popover-header {
+  color: #515151;
+  padding: .5rem .75rem;
+  margin-bottom: 0;
+  font-size: 1rem;
+  font-weight: 600;
+  background-color: #f7f7f7;
+  border-bottom: 1px solid #ebebeb;
+  border-top-left-radius: calc(.3rem - 1px);
+  border-top-right-radius: calc(.3rem - 1px);
+}
+
+.ar-popover .ar-popover-body {
+  padding: .5rem .75rem;
+  color: #212529;
+}
+
+.ar-popover .list-group .list-group-item {
+  border: none;
+  cursor: pointer;
+  padding: 3px 0;
+  margin-bottom: 3px;
+}
+
+.ar-popover .list-group {
+  list-style-type: none;
+  margin: 0 0;
+}
+
+
+.ar-popover .popover-message {
+  font-size: 12px;
+  background-color: #f7f7f7;
+  margin-left: -0.75rem;
+  margin-right: -0.75rem;
+  margin-top: -0.7rem;
+  padding-top: 0;
+  padding-bottom: 0.5rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  width: calc(100% + 1.5rem);
+}
+
+.ar-popover .ar-popover-header .replacement-word {
+  display: inline-block;
+  border-radius: 5px;
+  padding: 2px;
+  transition: 0.3s ease;
+}
+
+.ar-popover .list-group .list-group-item .replacement-word {
+  display: inline-block;
+  border-radius: 5px;
+  width: 75%;
+  padding: 2px;
+  transition: 0.3s ease;
+}
+
+.ar-popover .ar-popover-header .replacement-word:hover,
+.ar-popover .list-group .list-group-item .replacement-word:hover {
+  background-color: #d3edf8;
+  padding: 0 7px;
+}
+
+.ar-popover-body .pre-scrollable::-webkit-scrollbar {
+  width: 5px;
+}
+
+.ar-popover-body .pre-scrollable::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+.ar-popover-body  .pre-scrollable::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+
+.ar-popover-body .pre-scrollable {
+  max-height: 275px;
+}
+.pre-scrollable {
+  max-height: 340px;
+  overflow-y: scroll;
+}
+

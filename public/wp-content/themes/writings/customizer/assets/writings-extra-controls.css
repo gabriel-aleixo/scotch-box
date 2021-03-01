@@ -1,0 +1,253 @@
+
+/* ==========================================================================
+   Simple Notice
+   ========================================================================== */
+
+.simple-notice-custom-control .customize-control-description {
+	line-height: 1.6
+}
+
+.simple-notice-custom-control code {
+	font-size: 90%;
+	padding: 2px 4px;
+}
+
+
+/* ==========================================================================
+   Text Radio Buttons
+   ========================================================================== */
+.text_radio_button_control:after {
+	content: " ";
+	display: block;
+	clear: both;
+}
+.text_radio_button_control .radio-buttons {
+	display: inline-block;
+	border: 1px solid #f9f9fe;
+}
+.text_radio_button_control .radio-button-label {
+	cursor: pointer;
+	float: left;
+}
+.text_radio_button_control .radio-button-label > input {
+	display: none;
+}
+.text_radio_button_control .radio-button-label span {
+	cursor: pointer;
+	font-weight: 500;
+	border: 2px solid #f9f9fe;
+	margin: 0;
+	background-color: #eee;
+	padding: 5px 15px;
+	display: inline-block;
+}
+.text_radio_button_control .radio-button-label span:hover {
+	background-color: rgba(255, 255, 255, .2);
+	color: #2885bb;
+}
+.text_radio_button_control .radio-button-label > input:checked + span {
+	background-color: #0085ba;
+    color: #FFF;
+}
+.text_radio_button_control .radio-button-label > input:checked + span:hover {
+	color: #FFF;
+}
+
+/* ==========================================================================
+   Slider
+   ========================================================================== */
+.slider-custom-control {
+	margin-bottom: 30px;
+}
+.slider-custom-control input[type=number]::-webkit-inner-spin-button,
+.slider-custom-control input[type=number]::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+.slider-custom-control input[type=number] {
+	-moz-appearance: textfield;
+}
+.slider-custom-control  .customize-control-title {
+	display: inline-block;
+}
+.slider-custom-control input[type=number] {
+	text-align: right;
+	width: 50px;
+	float: right;
+}
+.slider-custom-control .slider {
+	width: 85%;
+	float: left;
+	margin: 20px 0 10px;
+}
+.slider-custom-control .slider-reset {
+	float: right;
+	cursor: pointer;
+}
+.slider-custom-control .slider-value {
+	border: none;
+	text-align: right;
+	width: 50px;
+	margin-right: 5px;
+}
+.slider-custom-control .slider-value,
+.slider-custom-control .slider-unit {
+	float: right;
+}
+.slider-custom-control .ui-widget.ui-widget-content {
+	border: 1px solid #f4f4f4;
+}
+.slider-custom-control .ui-corner-all,
+.slider-custom-control .ui-corner-bottom,
+.slider-custom-control .ui-corner-right,
+.slider-custom-control .ui-corner-br {
+	border-bottom-right-radius: 3px;
+}
+.slider-custom-control .ui-corner-all,
+.slider-custom-control .ui-corner-bottom,
+.slider-custom-control .ui-corner-left,
+.slider-custom-control .ui-corner-bl {
+	border-bottom-left-radius: 3px;
+}
+.slider-custom-control .ui-corner-all,
+.slider-custom-control .ui-corner-top,
+.slider-custom-control .ui-corner-right,
+.slider-custom-control .ui-corner-tr {
+	border-top-right-radius: 3px;
+}
+.slider-custom-control .ui-corner-all,
+.slider-custom-control .ui-corner-top,
+.slider-custom-control .ui-corner-left,
+.slider-custom-control .ui-corner-tl {
+	border-top-left-radius: 3px;
+}
+.slider-custom-control .ui-widget-content {
+	background: #f4f4f4 none repeat scroll 0 0;
+	color: #333;
+}
+.slider-custom-control .ui-slider-horizontal {
+	height: 3px;
+}
+.slider-custom-control .ui-slider {
+	position: relative;
+	text-align: left;
+}
+.slider-custom-control .ui-state-default,
+.slider-custom-control .ui-widget-content .ui-state-default,
+.slider-custom-control .ui-widget-header .ui-state-default,
+.slider-custom-control .ui-button,
+.slider-custom-control .ui-button.ui-state-disabled:hover,
+.slider-custom-control .ui-button.ui-state-disabled:active {
+	background: #2885bb none repeat scroll 0 0;
+	border: 1px solid #2885bb;
+	color: #454545;
+	font-weight: normal;
+}
+.slider-custom-control .ui-slider-horizontal .ui-slider-handle {
+	top: -7px;
+	border-radius: 50%;
+}
+.slider-custom-control .ui-slider .ui-slider-handle {
+	cursor: pointer;
+	height: 14px;
+	position: absolute;
+	width: 14px;
+	z-index: 2;
+}
+.slider-custom-control .dashicons-image-rotate {
+	margin-top: 10px;
+	color: #d4d4d4;
+	size: 16px;
+}
+.slider-custom-control .dashicons-image-rotate:hover {
+	color: #a7a7a7;
+}
+
+/* ==========================================================================
+   Toggle Switch
+   ========================================================================== */
+.toggle-switch-control .customize-control-title {
+	display: inline-block;
+}
+
+.toggle-switch {
+	position: relative;
+	width: 64px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	float: right;
+}
+
+.toggle-switch .toggle-switch-checkbox {
+	display: none;
+}
+
+.toggle-switch .toggle-switch-label {
+	display: block;
+	overflow: hidden;
+	cursor: pointer;
+	border: 2px solid #ddd;
+	border-radius: 20px;
+	padding: 0;
+	margin: 0;
+}
+
+.toggle-switch-inner {
+	display: block;
+	width: 200%;
+	margin-left: -100%;
+	transition: margin 0.3s ease-in 0s;
+}
+
+.toggle-switch-inner:before,
+.toggle-switch-inner:after {
+	display: block;
+	float: left;
+	width: 50%;
+	height: 22px;
+	padding: 0;
+	line-height: 22px;
+	font-size: 14px;
+	color: white;
+	font-family: Trebuchet, Arial, sans-serif;
+	font-weight: bold;
+	box-sizing: border-box;
+}
+
+.toggle-switch-inner:before {
+	content: "ON";
+	padding-left: 8px;
+	background-color: #2885bb;
+	color: #FFFFFF;
+}
+
+.toggle-switch-inner:after {
+	content: "OFF";
+	padding-right: 8px;
+	background-color: #EEEEEE;
+	color: #999999;
+	text-align: right;
+}
+
+.toggle-switch-switch {
+	display: block;
+	width: 16px;
+	margin: 3px;
+	background: #FFFFFF;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 38px;
+	border: 2px solid #ddd;
+	border-radius: 20px;
+	transition: all 0.3s ease-in 0s;
+}
+
+.toggle-switch-checkbox:checked + .toggle-switch-label .toggle-switch-inner {
+	margin-left: 0;
+}
+
+.toggle-switch-checkbox:checked + .toggle-switch-label .toggle-switch-switch {
+	right: 0px;
+}

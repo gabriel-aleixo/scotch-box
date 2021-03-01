@@ -1,0 +1,769 @@
+[
+  {
+    "clientId": "22842f83-7f7f-45ca-abb2-cbb77304eaa0",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>In 1996, Bill Gates made a bold statement.</p>",
+    "attributes": {
+      "content": "In 1996, Bill Gates made a bold statement.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "7385be2d-6cf5-44aa-8fc1-09906a332cab",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​He declared that “C​ontent is King.” He foresaw the internet evolving into a marketingplace for content.</p>",
+    "attributes": {
+      "content": "​He declared that “C​ontent is King.” He foresaw the internet evolving into a marketingplace for content.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "3650c8e7-d12a-42ba-a1e1-48a09f7dd08b",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​Over 20 years later, Gates premonition is proving right.</p>",
+    "attributes": {
+      "content": "​Over 20 years later, Gates premonition is proving right.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "f5cdbbc9-d43e-4256-a572-11c57f36d69b",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>So, how far have we come concerning the production and consumption of content? This collection of stats below reveals the amount of <a href=\"https://contently.com/2016/07/26/infographic-content-consumed-every-minute-absolutely-ridiculous/\">content shared and consumed</a>.</p>",
+    "attributes": {
+      "content": "So, how far have we come concerning the production and consumption of content? This collection of stats below reveals the amount of <a href=\"https://contently.com/2016/07/26/infographic-content-consumed-every-minute-absolutely-ridiculous/\">content shared and consumed</a>.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "15b0bd21-318f-48a5-8410-6bc6debbcf39",
+    "name": "core/list",
+    "isValid": true,
+    "originalContent": "<ul><li>400 hours of video content is shared.</li><li>347,222 tweets are sent.</li><li>Facebook users like posts 4,166,667 times.</li><li>Instagram users like posts 2,430,555 times.</li></ul>",
+    "attributes": {
+      "ordered": false,
+      "values": "<li>400 hours of video content is shared.</li><li>347,222 tweets are sent.</li><li><armarker data-markjs=\"true\" class=\"arSpellingGrammar\" id=\"spelling_id_1\" data-spelling-issue-id=\"1\">Facebook</armarker> users like posts 4,166,667 times.</li><li><armarker data-markjs=\"true\" class=\"arSpellingGrammar\" id=\"spelling_id_2\" data-spelling-issue-id=\"2\">Instagram</armarker> users like posts 2,430,555 times.</li>"
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "a19a7539-dbcd-4dc4-9098-ed9f0e51d6bd",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>While the volume is high, what is the outcome?</p>",
+    "attributes": {
+      "content": "While the volume is high, what is the outcome?",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "b39754dd-de8b-4786-b1eb-e3a8569a1a22",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​Savvy marketers are moving past the “more is better” mentality to focus on quality.</p>",
+    "attributes": {
+      "content": "​Savvy marketers are moving past the “more is better” mentality to focus on quality.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "4d599e3e-ceeb-489e-bbc8-49a81fff4835",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>Is this content actually helping marketers and businesses meet their goals?</p>",
+    "attributes": {
+      "content": "Is this content actually helping marketers and businesses meet their goals?",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "221f92d2-11ef-4644-b23c-afc74ae636a5",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​This is where Content Intelligence comes into play.</p>",
+    "attributes": {
+      "content": "​This is where Content Intelligence comes into play.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "fab0d837-68fd-49c3-9db9-c2fe13973f1b",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​</p>",
+    "attributes": {
+      "content": "​",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "a6862ac4-2272-4135-8e16-e0d0c32da636",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p><strong>What is Content Intelligence?</strong></p>",
+    "attributes": {
+      "content": "<strong>What is Content Intelligence?</strong>",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "7d4647c3-45ad-477d-ab96-134bb8781635",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p><a href=\"https://blog.atomicreach.com/content-intelligence\">Content Intelligence</a> is the intersection of artificial intelligence and content strategy.</p>",
+    "attributes": {
+      "content": "<a href=\"https://blog.atomicreach.com/content-intelligence\">Content Intelligence</a> is <armarker data-markjs=\"true\" class=\"arSpellingGrammar\" id=\"spelling_id_3\" data-spelling-issue-id=\"3\">the intersection of</armarker> artificial intelligence and content strategy.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "86f0f563-3c6f-4026-993b-d4c573b22386",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>Defined as, \"technology that helps content understand itself — what it’s about, how it speaks, how effective it is at accomplishing certain goals, what emotions it calls to mind, etc.”</p>",
+    "attributes": {
+      "content": "Defined as, \"technology that helps content understand itself — what it’s about, how it speaks, how effective it is at accomplishing certain goals, what emotions it calls to mind, etc.”",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "e05bd735-b5d9-4147-9ca5-3d7d0063603d",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​Content Intelligence offers marketers a holistic view into the language of their content and allows them to make better decisions about the context of their content.</p>",
+    "attributes": {
+      "content": "​Content Intelligence offers marketers a holistic view into the language of their content and allows them to make better decisions about the context of their content.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "41437775-d838-4161-91aa-0435ecf641a1",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​</p>",
+    "attributes": {
+      "content": "​",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "951f9ad8-800e-4840-be1c-c4dd150cfa13",
+    "name": "core/image",
+    "isValid": true,
+    "originalContent": "<figure class=\"wp-block-image\"><img src=\"https://lh4.googleusercontent.com/CNfzePqLHHOu4dfJRkHI5WD6Gs2AblXiJhFKgKEIGyvkfggmDW2iVD6tjvRly1y9ZjxKU3OEMICYfOVlQv04qparkqt8zEoP3y6YEWDewx0C4vPqifs1tOQ1SbxYo4FVJs5TwiXsDgk5_XnQFg\" alt=\"https://blog.buzzoole.com/wp-content/uploads/2017/03/1.png\"/></figure>",
+    "attributes": {
+      "url": "https://lh4.googleusercontent.com/CNfzePqLHHOu4dfJRkHI5WD6Gs2AblXiJhFKgKEIGyvkfggmDW2iVD6tjvRly1y9ZjxKU3OEMICYfOVlQv04qparkqt8zEoP3y6YEWDewx0C4vPqifs1tOQ1SbxYo4FVJs5TwiXsDgk5_XnQFg",
+      "alt": "https://blog.buzzoole.com/wp-content/uploads/2017/03/1.png",
+      "caption": "",
+      "linkDestination": "none"
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "fc37aff4-0838-4285-8911-cefaf97adbb1",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>It can help marketers better understand the type of content they should share, how they should promote it, and which content needs updating.</p>",
+    "attributes": {
+      "content": "It can help marketers better understand the type of content they should share, how they should promote it, and which content needs updating.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "95ccee98-157a-4736-adab-8027f9be9990",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​It dives deeper than just page views and social shares, focusing on the actual data associated with the content.</p>",
+    "attributes": {
+      "content": "​It dives deeper than just page views and social shares, focusing on the actual data associated with the content.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "25c5102a-a77a-4b95-8428-d2974db7b11e",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>Software options like Marketo and Atomic Reach are allowing marketers to go deeper with data to make even better content marketing decisions.</p>",
+    "attributes": {
+      "content": "Software options like Marketo and Atomic Reach are allowing marketers to go deeper with data to make even better content marketing decisions.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "dc643740-ade1-4ef2-b0fd-2deb324e421c",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​So, how else does content intelligence impact content marketing?</p>",
+    "attributes": {
+      "content": "​So, how else does content intelligence impact content marketing?",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "a8a205ea-4051-4611-85a9-68a70d0ed981",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​</p>",
+    "attributes": {
+      "content": "​",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "8fa60ea6-b5df-4759-a84a-851342cdf587",
+    "name": "core/image",
+    "isValid": true,
+    "originalContent": "<figure class=\"wp-block-image\"><img src=\"https://lh4.googleusercontent.com/enGu3a97U7je62HA8CprG52LEMR2Ryaoweygwv3FD_RMayEgYxYsLB24MUCAUD6HWJpvvI_lF_uxGszhenrKwYOaG2-v52ulnO6WCTHmoKiQW9YyW4CcaV9vq0YjxNJnDqdTof9w4QFuE6X5wg\" alt=\"mage result for content intelligence\"/></figure>",
+    "attributes": {
+      "url": "https://lh4.googleusercontent.com/enGu3a97U7je62HA8CprG52LEMR2Ryaoweygwv3FD_RMayEgYxYsLB24MUCAUD6HWJpvvI_lF_uxGszhenrKwYOaG2-v52ulnO6WCTHmoKiQW9YyW4CcaV9vq0YjxNJnDqdTof9w4QFuE6X5wg",
+      "alt": "mage result for content intelligence",
+      "caption": "",
+      "linkDestination": "none"
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "92d2a0c0-53e9-46f4-8866-e6708e46db50",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p><strong>​Properly Identifying and Targeting Audiences</strong></p>",
+    "attributes": {
+      "content": "<strong>​Properly Identifying and Targeting Audiences</strong>",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "d61e45ff-81b6-4e9e-a6f1-86e848fd1d34",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>According to Curata, 67% of marketers list audience identification and targeting as a top need from a content marketing perspective.</p>",
+    "attributes": {
+      "content": "According to Curata, 67% of marketers list audience identification and targeting as a top need from a content marketing perspective.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "c6d70694-e900-4df3-8977-b67cd7343f77",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>Instead of just relying on surveys, Google Analytics, or CRMs, a content intelligence platform uses all of them.</p>",
+    "attributes": {
+      "content": "Instead of just relying on surveys, Google <armarker data-markjs=\"true\" class=\"arSpellingGrammar\" id=\"spelling_id_4\" data-spelling-issue-id=\"4\">Analytics</armarker>, or CRMs, a content intelligence platform uses all of them.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "35265e58-7193-45e2-85bc-f7e0dce05ea1",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​It drills down into your data related to demographics, customer preferences, and insights from historical content to help you produce content your audience will resonate with.</p>",
+    "attributes": {
+      "content": "​It drills down into your data related to demographics, customer preferences, and insights from historical content to help you produce content your audience will resonate with.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "bf31ce4f-2514-46ed-aee6-9c60a4819f85",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​</p>",
+    "attributes": {
+      "content": "​",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "08edf276-f144-441e-a4e3-e4ebb35435e4",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p><strong>Guides Customers Through the Journey</strong></p>",
+    "attributes": {
+      "content": "<strong>Guides Customers Through the Journey</strong>",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "f24b0875-5ee5-4dd7-951d-2608d38390d3",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>To say that competition is fierce would be an understatement.</p>",
+    "attributes": {
+      "content": "To say that competition is fierce would be an understatement.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "209fc822-451e-4636-bce2-0ced55693644",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​Today, marketers are challenged with moving past guesswork to produce the right content for the right audience.</p>",
+    "attributes": {
+      "content": "​Today, marketers <armarker data-markjs=\"true\" class=\"arSpellingGrammar\" id=\"spelling_id_5\" data-spelling-issue-id=\"5\">are challenged</armarker> with moving past guesswork to produce the right content for the right audience.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "67e6c429-255a-4338-ad5e-d5114dece126",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​A well-thought-out marketing strategy that utilizes content intelligence ensures this happens.</p>",
+    "attributes": {
+      "content": "​A well-thought-out marketing strategy that utilizes content intelligence ensures this happens.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "8ee43cac-629c-47f2-8f66-cb2b840ffb71",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​It can help you create content that cultivates customers throughout each part of the buyer journey.</p>",
+    "attributes": {
+      "content": "​It can help you create content that cultivates customers throughout each part of the buyer journey.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "52c27dbb-535f-400e-9003-ce920db65bb5",
+    "name": "core/image",
+    "isValid": true,
+    "originalContent": "<figure class=\"wp-block-image\"><img src=\"https://lh4.googleusercontent.com/uni7OeJCqtLvAp75dZ_RMG2wk47E_vfJDLahwj62U8IL0UiN6IGMedua1KZm8H44gwkXYFOozFDuw7X5dwFIxPt4B_Lb9bpcd7OlMVusCu7f_-ZqO5-EgxgnHb7nSr_laMBSB_T9R7Y02pVWrg\" alt=\"https://images4.newscred.com/Zz1mMGEyMTRjMDRmODhlMmRiYmMyNThiNjdjZjA4Nzc1Zg==\"/></figure>",
+    "attributes": {
+      "url": "https://lh4.googleusercontent.com/uni7OeJCqtLvAp75dZ_RMG2wk47E_vfJDLahwj62U8IL0UiN6IGMedua1KZm8H44gwkXYFOozFDuw7X5dwFIxPt4B_Lb9bpcd7OlMVusCu7f_-ZqO5-EgxgnHb7nSr_laMBSB_T9R7Y02pVWrg",
+      "alt": "https://images4.newscred.com/Zz1mMGEyMTRjMDRmODhlMmRiYmMyNThiNjdjZjA4Nzc1Zg==",
+      "caption": "",
+      "linkDestination": "none"
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "f72bc6a6-2b40-4dbf-a7cd-60e1b1128c7e",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​You can then send targeted email messages that invite them to come in for scheduled maintenance with an attached blog post on the importance of car upkeep.</p>",
+    "attributes": {
+      "content": "​You can then send targeted email messages that invite them to come in for scheduled maintenance with an attached blog post on <armarker data-markjs=\"true\" class=\"arSpellingGrammar\" id=\"spelling_id_6\" data-spelling-issue-id=\"6\">the importance of</armarker> car upkeep.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "f94592ef-17c9-43a1-a15b-004bf386aa98",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​Efforts like this reveal that content intelligence helps you to produce content that is valuable to your customers.</p>",
+    "attributes": {
+      "content": "​Efforts like this reveal that content intelligence helps you to produce content that is valuable to your customers.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "fe5ed908-7ab2-4770-af9b-e85362464a30",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​</p>",
+    "attributes": {
+      "content": "​",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "a8ac3e68-a1bc-4c4d-92d0-40fcb4883d7f",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p><strong>Knowing the Best Content to Create for Your Audience</strong></p>",
+    "attributes": {
+      "content": "<strong>Knowing the Best Content to Create for Your Audience</strong>",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "1ad91227-dd42-418e-8df4-127998fc7a50",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>As enticing as content brainstorming sessions are, it is inefficient to rely on these sessions.</p>",
+    "attributes": {
+      "content": "As enticing as content brainstorming sessions are, it is inefficient to rely on these sessions.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "e0c04ec6-41f4-46a9-9b96-85bbea990316",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​You need a platform that can help you quickly and efficiently understand the type of content your audience is looking for.</p>",
+    "attributes": {
+      "content": "​You need a platform that can help you quickly and efficiently understand the type of content your audience is looking for.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "285826c2-e525-4b6d-939b-cf7346c26e97",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​If you have set goals and are funneling the right data to your <a href=\"https://www.atomicreach.com/\">content intelligence platform</a>, then it can help you overcome this obstacle.</p>",
+    "attributes": {
+      "content": "​If you have set goals and are funneling the right data to your <a href=\"https://www.atomicreach.com/\">content intelligence platform</a>, then it can help you overcome this obstacle.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "9461036d-e027-49b3-bd16-075fd9fa9227",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>It can take your goals and data and look at content in your industry that is popular with customers. From there, it can also examine what competitors are doing to provide you with helpful insights into the topics you should be covering.</p>",
+    "attributes": {
+      "content": "It can take your goals and data and look at content in your industry that is popular with customers. From there, it can also examine what competitors are doing to provide you with helpful insights into the topics you <armarker data-markjs=\"true\" class=\"arSpellingGrammar\" id=\"spelling_id_7\" data-spelling-issue-id=\"7\">should be</armarker> covering.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "0eb15ca2-e09c-4e07-af45-e58be01123ae",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​While there will always be a need for the human element of creating content that adequately appeals to emotions and logic, machine learning and AI can help you reach the first step of where to start.</p>",
+    "attributes": {
+      "content": "​While there will always be a need for the human element of creating content that adequately appeals to emotions and logic, machine learning and AI can help you reach the first step of where to start.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "ff62f2be-538a-4e3c-8982-74969d343542",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​</p>",
+    "attributes": {
+      "content": "​",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "63d11380-8f71-435c-87c7-ebb6807f24e9",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p><strong>Determining the Best Time to Distribute and Promote Your Content</strong></p>",
+    "attributes": {
+      "content": "<strong>Determining the Best Time to Distribute and Promote Your Content</strong>",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "5ab46054-1ea2-4a79-b059-ed3d0a17d9ff",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>According to Curata, 53% of marketers say distribution is a top need related to content marketing.</p>",
+    "attributes": {
+      "content": "According to Curata, 53% of marketers say distribution is a top need related to content marketing.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "44354cfe-3ba9-4b4c-8a06-7a7227972e55",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​In a world of ever-evolving consumer preferences, and a never-ending option of social media platforms, it is challenging to know where and when your audience wants to see your content.</p>",
+    "attributes": {
+      "content": "​In a world of ever-evolving consumer preferences, and a never-ending option of social media platforms, it is challenging to know where and when your audience wants to see your content.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "49a2a823-649c-47b7-abaf-f17b11821785",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​Is half your audience on Twitter, while your most dedicated buyers are on LinkedIn?</p>",
+    "attributes": {
+      "content": "​Is half your audience on Twitter, while your most dedicated buyers are on LinkedIn?",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "e98cbfd1-2e95-49df-877e-09e868433542",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>Many marketers still rely on dated methods for discovering this information, rather than using data.</p>",
+    "attributes": {
+      "content": "Many marketers still rely on dated methods for discovering this information, rather than using data.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "d9dec53c-e282-48cf-b4f2-4a9eac5d75ad",
+    "name": "core/image",
+    "isValid": true,
+    "originalContent": "<figure class=\"wp-block-image\"><img src=\"https://lh4.googleusercontent.com/hGpecM9eDsuVfegirxUcZXfbMXWcgzv-GEuCNiVg5YNiwJqchfdo3I08hIffP38tIkMKuS8mmnhvx33g0atk__VfIqSe7BFRHOVTzR1mLP47IteWJh2Zq8dtOdeyCMLJZOrszjsGulfuHJergg\" alt=\"https://blog.marketo.com/content/uploads/2018/04/Data-based-decisions-Google-example.png\"/></figure>",
+    "attributes": {
+      "url": "https://lh4.googleusercontent.com/hGpecM9eDsuVfegirxUcZXfbMXWcgzv-GEuCNiVg5YNiwJqchfdo3I08hIffP38tIkMKuS8mmnhvx33g0atk__VfIqSe7BFRHOVTzR1mLP47IteWJh2Zq8dtOdeyCMLJZOrszjsGulfuHJergg",
+      "alt": "https://blog.marketo.com/content/uploads/2018/04/Data-based-decisions-Google-example.png",
+      "caption": "",
+      "linkDestination": "none"
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "da23511b-d414-4780-ad60-73b41becc494",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​Content Intelligence can assist you by using data to ensure your audience actually sees what you are producing.</p>",
+    "attributes": {
+      "content": "​Content Intelligence can assist you by using data to ensure your audience actually sees what you are producing.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "eef6b764-3210-46b2-a2bc-639fafd27a81",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​It looks at historical content and uses data to determine the best time and where to promote your content.</p>",
+    "attributes": {
+      "content": "​It looks at historical content and uses data to determine the best time and where to promote your content.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "5c84ab53-a75b-426f-b2a1-934e929df2ef",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​</p>",
+    "attributes": {
+      "content": "​",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "155a1958-e7e2-43f5-b6a0-c00a648ee194",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p><strong>Identify How To Improve Your Content</strong></p>",
+    "attributes": {
+      "content": "<strong>Identify How To Improve Your Content</strong>",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "5910a2f4-c0cc-480d-86ee-6fa7d8b4cc71",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>There is no silver bullet when it comes to content marketing.</p>",
+    "attributes": {
+      "content": "There is no silver bullet when it comes to content marketing.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "070a5398-6ada-4626-a250-42d59590d9aa",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​The data sources can always be better, the content can be even more targeted, and the topics can be even more relevant. In short, there is room to improve your content marketing strategy.</p>",
+    "attributes": {
+      "content": "​The data sources can always be better, the content <armarker data-markjs=\"true\" class=\"arSpellingGrammar\" id=\"spelling_id_8\" data-spelling-issue-id=\"8\">can be</armarker> even more targeted, and the topics <armarker data-markjs=\"true\" class=\"arSpellingGrammar\" id=\"spelling_id_9\" data-spelling-issue-id=\"9\">can be</armarker> even more relevant. In short, there is room to improve your content marketing strategy.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "f2ae7380-415f-4039-8ba1-3b41652bc6f4",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​That being said, it is difficult to prioritize.</p>",
+    "attributes": {
+      "content": "​That being said, it is difficult to prioritize.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "574e747e-a0e8-449b-8a06-4dce36290644",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​Content Intelligence allows you not only to see what needs to be improved but also to decide what you should tackle first.</p>",
+    "attributes": {
+      "content": "​Content Intelligence allows you not only to see what needs <armarker data-markjs=\"true\" class=\"arSpellingGrammar\" id=\"spelling_id_10\" data-spelling-issue-id=\"10\">to be</armarker> improved but also to decide what you should tackle first.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "1979565a-2dc1-40ab-a3e5-6e74878fba0a",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>Maybe through tracking competitors, you discover that you need more images or infographics in your blogs, or that videos under 15 seconds receive more shares than those over 20.</p>",
+    "attributes": {
+      "content": "Maybe through tracking competitors, you discover that you need more images or <armarker data-markjs=\"true\" class=\"arSpellingGrammar\" id=\"spelling_id_11\" data-spelling-issue-id=\"11\">infographics</armarker> in your blogs, or that videos under 15 seconds receive more shares than those over 20.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "70bfc9d9-7d7a-4653-a590-f9c2dc80435d",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​Having a robust content intelligence platform allows you to identify problem areas and act on them quickly.</p>",
+    "attributes": {
+      "content": "​Having a robust content intelligence platform allows you to identify problem areas and act on them quickly.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "6c9d5c8e-e04e-4deb-982d-8da321cb94e0",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​</p>",
+    "attributes": {
+      "content": "​",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "48273dbb-13a2-4a17-8eba-e6cdd30dccb4",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p><strong>Knowing Which Content to Update</strong></p>",
+    "attributes": {
+      "content": "<strong>Knowing Which Content to Update</strong>",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "b89e4ba0-9600-4858-884c-a6a2440ab1df",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>How many times have you created an excellent piece of content, but forgot about it over time?</p>",
+    "attributes": {
+      "content": "How many times have you created an excellent piece of content, but forgot about it over time?",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "96781a41-69b0-493f-8781-be0029595427",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​It was a hit with your audience, and you need reminders to update it. Luckily, a content intelligence platform can assist you.</p>",
+    "attributes": {
+      "content": "​It was a hit with your audience, and you need reminders to update it. Luckily, a content intelligence platform can assist you.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "cc6d6f9f-11d9-4b59-b8ce-2b3b24b7de58",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>Instead of combing through a content calendar created on Excel or Google Sheets, a content intelligence platform automatically reminds you of when it is time to update your evergreen content.</p>",
+    "attributes": {
+      "content": "Instead of combing through a content calendar created on Excel or Google Sheets, a content intelligence platform automatically reminds you of when it is time to update your evergreen content.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "904f0d00-444a-4535-acdf-323ef6dc1096",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>This tactic ensures that you are efficiently repurposing older content that can still be of value to your audience.</p>",
+    "attributes": {
+      "content": "This tactic ensures that you are efficiently repurposing older content that can still be of value to your audience.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "53bb66e6-bc27-4efa-86d8-048e86fdc7d9",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>​</p>",
+    "attributes": {
+      "content": "​",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "c0a43941-be57-4b0d-8315-134d49f30740",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p><strong>Content Intelligence in Action</strong></p>",
+    "attributes": {
+      "content": "<strong>Content Intelligence in Action</strong>",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "23fa622e-2c0d-439d-8970-b80f3a69b526",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>We have evolved from merely tracking page views, click-throughs, and general audience data to using Big Data to produce personalized and timely content. The future possibilities of content intelligence are endless.</p>",
+    "attributes": {
+      "content": "We have evolved from merely tracking page views, click-throughs, and general audience data to using Big Data to produce personalized and timely content. The future possibilities of content intelligence are endless.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  },
+  {
+    "clientId": "2fd8ea10-d22f-4860-9cb9-6bd4af6c2b89",
+    "name": "core/paragraph",
+    "isValid": true,
+    "originalContent": "<p>While this extends to many industries and sectors, this evolution in AI will specifically allow content intelligence to continue to grow in sophistication.</p>",
+    "attributes": {
+      "content": "While this extends to many industries and sectors, this evolution in AI will specifically allow content intelligence to continue to grow in sophistication.",
+      "dropCap": false
+    },
+    "innerBlocks": []
+  }
+]

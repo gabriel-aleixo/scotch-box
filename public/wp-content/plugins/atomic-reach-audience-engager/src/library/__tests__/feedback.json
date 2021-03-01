@@ -1,0 +1,716 @@
+[
+  {
+    "4": {
+      "alternatives": [
+        "had",
+        "did",
+        "took"
+      ],
+      "idx": 20,
+      "replacement": "gave",
+      "text": "made",
+      "ws": " "
+    },
+    "7": {
+      "alternatives": [
+        "declaration",
+        "proclamation",
+        "message"
+      ],
+      "idx": 32,
+      "replacement": "speech",
+      "text": "statement",
+      "ws": ""
+    }
+  },
+  {
+    "1": {
+      "alternatives": [
+        "proclaimed",
+        "announced"
+      ],
+      "idx": 4,
+      "replacement": "claimed",
+      "text": "declared",
+      "ws": " "
+    },
+    "12": {
+      "alternatives": [
+        "network"
+      ],
+      "idx": 53,
+      "replacement": "web",
+      "text": "internet",
+      "ws": " "
+    }
+  },
+  {
+    "6": {
+      "alternatives": [],
+      "idx": 43,
+      "replacement": "doing",
+      "text": "proving",
+      "ws": " "
+    }
+  },
+  {
+    "7": {
+      "alternatives": [
+        "respecting"
+      ],
+      "idx": 25,
+      "replacement": "regarding",
+      "text": "concerning",
+      "ws": " "
+    },
+    "14": {
+      "alternatives": [
+        "selection",
+        "compilation",
+        "gathering"
+      ],
+      "idx": 84,
+      "replacement": "series",
+      "text": "collection",
+      "ws": " "
+    },
+    "18": {
+      "alternatives": [
+        "displays",
+        "establishes",
+        "contains",
+        "reflects"
+      ],
+      "idx": 110,
+      "replacement": "describes",
+      "text": "reveals",
+      "ws": " "
+    }
+  },
+  [],
+  [],
+  [],
+  [],
+  {
+    "4": {
+      "alternatives": [
+        "strong",
+        "elevated",
+        "heavy",
+        "large",
+        "good"
+      ],
+      "idx": 20,
+      "replacement": "raised",
+      "text": "high",
+      "ws": ""
+    }
+  },
+  [],
+  {
+    "3": {
+      "alternatives": [
+        "also"
+      ],
+      "idx": 16,
+      "replacement": "still",
+      "text": "actually",
+      "ws": " "
+    },
+    "7": {
+      "alternatives": [
+        "companies",
+        "entrepreneurs",
+        "communities"
+      ],
+      "idx": 47,
+      "replacement": "firms",
+      "text": "businesses",
+      "ws": " "
+    }
+  },
+  [],
+  [],
+  [],
+  {
+    "4": {
+      "alternatives": [
+        "junction"
+      ],
+      "idx": 28,
+      "replacement": "apex",
+      "text": "intersection",
+      "ws": " "
+    },
+    "9": {
+      "alternatives": [],
+      "idx": 80,
+      "replacement": "management",
+      "text": "strategy",
+      "ws": ""
+    }
+  },
+  {
+    "4": {
+      "alternatives": [],
+      "idx": 13,
+      "replacement": "software",
+      "text": "technology",
+      "ws": " "
+    },
+    "6": {
+      "alternatives": [],
+      "idx": 29,
+      "replacement": "makes",
+      "text": "helps",
+      "ws": " "
+    },
+    "8": {
+      "alternatives": [
+        "learn"
+      ],
+      "idx": 43,
+      "replacement": "know",
+      "text": "understand",
+      "ws": " "
+    },
+    "18": {
+      "alternatives": [
+        "thinks"
+      ],
+      "idx": 87,
+      "replacement": "talks",
+      "text": "speaks",
+      "ws": ""
+    }
+  },
+  {
+    "1": {
+      "alternatives": [
+        "provides",
+        "enables"
+      ],
+      "idx": 22,
+      "replacement": "gives",
+      "text": "offers",
+      "ws": " "
+    },
+    "20": {
+      "alternatives": [
+        "meaning",
+        "environment",
+        "topic"
+      ],
+      "idx": 141,
+      "replacement": "source",
+      "text": "context",
+      "ws": " "
+    }
+  },
+  [],
+  [],
+  {
+    "13": {
+      "alternatives": [],
+      "idx": 73,
+      "replacement": "real",
+      "text": "actual",
+      "ws": " "
+    }
+  },
+  {
+    "8": {
+      "alternatives": [
+        "enabling",
+        "providing",
+        "encouraging"
+      ],
+      "idx": 51,
+      "replacement": "aiding",
+      "text": "allowing",
+      "ws": " "
+    },
+    "18": {
+      "alternatives": [],
+      "idx": 106,
+      "replacement": "smarter",
+      "text": "better",
+      "ws": " "
+    },
+    "20": {
+      "alternatives": [
+        "actions",
+        "efforts"
+      ],
+      "idx": 131,
+      "replacement": "choices",
+      "text": "decisions",
+      "ws": ""
+    }
+  },
+  [],
+  [],
+  [],
+  {
+    "9": {
+      "alternatives": [
+        "identity",
+        "determination"
+      ],
+      "idx": 52,
+      "replacement": "recognition",
+      "text": "identification",
+      "ws": " "
+    },
+    "14": {
+      "alternatives": [
+        "leading"
+      ],
+      "idx": 86,
+      "replacement": "key",
+      "text": "top",
+      "ws": " "
+    },
+    "19": {
+      "alternatives": [
+        "vantage"
+      ],
+      "idx": 120,
+      "replacement": "point",
+      "text": "perspective",
+      "ws": ""
+    }
+  },
+  {
+    "4": {
+      "alternatives": [],
+      "idx": 27,
+      "replacement": "polls",
+      "text": "surveys",
+      "ws": ""
+    }
+  },
+  {
+    "7": {
+      "alternatives": [
+        "populations"
+      ],
+      "idx": 42,
+      "replacement": "audiences",
+      "text": "demographics",
+      "ws": ""
+    },
+    "10": {
+      "alternatives": [
+        "desires",
+        "habits"
+      ],
+      "idx": 65,
+      "replacement": "tastes",
+      "text": "preferences",
+      "ws": ""
+    },
+    "15": {
+      "alternatives": [
+        "historic"
+      ],
+      "idx": 96,
+      "replacement": "old",
+      "text": "historical",
+      "ws": " "
+    },
+    "18": {
+      "alternatives": [
+        "aid",
+        "assist"
+      ],
+      "idx": 118,
+      "replacement": "let",
+      "text": "help",
+      "ws": " "
+    }
+  },
+  [],
+  [],
+  [],
+  {
+    "9": {
+      "alternatives": [
+        "generate",
+        "deliver",
+        "provide"
+      ],
+      "idx": 63,
+      "replacement": "create",
+      "text": "produce",
+      "ws": " "
+    }
+  },
+  {
+    "4": {
+      "alternatives": [
+        "encompasses"
+      ],
+      "idx": 44,
+      "replacement": "includes",
+      "text": "utilizes",
+      "ws": " "
+    },
+    "6": {
+      "alternatives": [],
+      "idx": 61,
+      "replacement": "information",
+      "text": "intelligence",
+      "ws": " "
+    },
+    "9": {
+      "alternatives": [
+        "occurs"
+      ],
+      "idx": 87,
+      "replacement": "gets",
+      "text": "happens",
+      "ws": ""
+    }
+  },
+  [],
+  {
+    "18": {
+      "alternatives": [
+        "associated",
+        "included"
+      ],
+      "idx": 105,
+      "replacement": "added",
+      "text": "attached",
+      "ws": " "
+    }
+  },
+  {
+    "7": {
+      "alternatives": [
+        "assists",
+        "enables"
+      ],
+      "idx": 52,
+      "replacement": "does",
+      "text": "helps",
+      "ws": " "
+    },
+    "10": {
+      "alternatives": [
+        "generate",
+        "manufacture",
+        "develop",
+        "achieve"
+      ],
+      "idx": 65,
+      "replacement": "create",
+      "text": "produce",
+      "ws": " "
+    },
+    "14": {
+      "alternatives": [
+        "valued",
+        "meaningful"
+      ],
+      "idx": 89,
+      "replacement": "useful",
+      "text": "valuable",
+      "ws": " "
+    }
+  },
+  [],
+  [],
+  [],
+  {
+    "9": {
+      "alternatives": [
+        "identify",
+        "absorb"
+      ],
+      "idx": 63,
+      "replacement": "explain",
+      "text": "understand",
+      "ws": " "
+    }
+  },
+  {
+    "21": {
+      "alternatives": [],
+      "idx": 116,
+      "replacement": "resolve",
+      "text": "overcome",
+      "ws": " "
+    }
+  },
+  {
+    "15": {
+      "alternatives": [],
+      "idx": 77,
+      "replacement": "current",
+      "text": "popular",
+      "ws": " "
+    },
+    "25": {
+      "alternatives": [
+        "analyze",
+        "evaluate",
+        "explore",
+        "review"
+      ],
+      "idx": 125,
+      "replacement": "study",
+      "text": "examine",
+      "ws": " "
+    },
+    "31": {
+      "alternatives": [],
+      "idx": 163,
+      "replacement": "give",
+      "text": "provide",
+      "ws": " "
+    }
+  },
+  {
+    "14": {
+      "alternatives": [
+        "accurately",
+        "properly",
+        "appropriately",
+        "fully",
+        "successfully"
+      ],
+      "idx": 82,
+      "replacement": "truly",
+      "text": "adequately",
+      "ws": " "
+    },
+    "24": {
+      "alternatives": [
+        "aid",
+        "allow",
+        "make",
+        "give"
+      ],
+      "idx": 152,
+      "replacement": "let",
+      "text": "help",
+      "ws": " "
+    }
+  },
+  [],
+  [],
+  [],
+  [],
+  {
+    "10": {
+      "alternatives": [],
+      "idx": 51,
+      "replacement": "devoted",
+      "text": "dedicated",
+      "ws": " "
+    }
+  },
+  {
+    "7": {
+      "alternatives": [
+        "detecting",
+        "determining",
+        "gathering"
+      ],
+      "idx": 47,
+      "replacement": "knowing",
+      "text": "discovering",
+      "ws": " "
+    }
+  },
+  {
+    "11": {
+      "alternatives": [
+        "ultimately",
+        "eventually"
+      ],
+      "idx": 75,
+      "replacement": "finally",
+      "text": "actually",
+      "ws": " "
+    }
+  },
+  {
+    "2": {
+      "alternatives": [
+        "historic",
+        "old",
+        "recent"
+      ],
+      "idx": 13,
+      "replacement": "past",
+      "text": "historical",
+      "ws": " "
+    }
+  },
+  [],
+  [],
+  [],
+  {
+    "13": {
+      "alternatives": [],
+      "idx": 69,
+      "replacement": "focused",
+      "text": "targeted",
+      "ws": ""
+    }
+  },
+  [],
+  [],
+  {
+    "11": {
+      "alternatives": [
+        "pictures",
+        "photographs",
+        "frames"
+      ],
+      "idx": 68,
+      "replacement": "photos",
+      "text": "images",
+      "ws": " "
+    },
+    "16": {
+      "alternatives": [
+        "posts",
+        "sites",
+        "pages"
+      ],
+      "idx": 99,
+      "replacement": "websites",
+      "text": "blogs",
+      "ws": ""
+    }
+  },
+  {
+    "2": {
+      "alternatives": [
+        "rigorous",
+        "powerful"
+      ],
+      "idx": 10,
+      "replacement": "strong",
+      "text": "robust",
+      "ws": " "
+    },
+    "6": {
+      "alternatives": [
+        "provides",
+        "enables",
+        "offers"
+      ],
+      "idx": 47,
+      "replacement": "helps",
+      "text": "allows",
+      "ws": " "
+    },
+    "9": {
+      "alternatives": [
+        "recognize",
+        "determine",
+        "understand"
+      ],
+      "idx": 61,
+      "replacement": "detect",
+      "text": "identify",
+      "ws": " "
+    },
+    "14": {
+      "alternatives": [
+        "rapidly",
+        "swiftly",
+        "immediately"
+      ],
+      "idx": 100,
+      "replacement": "fast",
+      "text": "quickly",
+      "ws": ""
+    }
+  },
+  [],
+  [],
+  [],
+  {
+    "23": {
+      "alternatives": [
+        "help",
+        "facilitate",
+        "support"
+      ],
+      "idx": 116,
+      "replacement": "aid",
+      "text": "assist",
+      "ws": " "
+    }
+  },
+  {
+    "15": {
+      "alternatives": [
+        "instantly",
+        "easily",
+        "manually",
+        "constantly",
+        "continuously"
+      ],
+      "idx": 113,
+      "replacement": "always",
+      "text": "automatically",
+      "ws": " "
+    },
+    "24": {
+      "alternatives": [
+        "upgrade",
+        "improve",
+        "modify",
+        "edit",
+        "review",
+        "evolve"
+      ],
+      "idx": 161,
+      "replacement": "change",
+      "text": "update",
+      "ws": " "
+    }
+  },
+  {
+    "2": {
+      "alternatives": [
+        "guarantees",
+        "enables"
+      ],
+      "idx": 12,
+      "replacement": "maintains",
+      "text": "ensures",
+      "ws": " "
+    },
+    "8": {
+      "alternatives": [
+        "earlier"
+      ],
+      "idx": 57,
+      "replacement": "younger",
+      "text": "older",
+      "ws": " "
+    },
+    "12": {
+      "alternatives": [
+        "now",
+        "actually"
+      ],
+      "idx": 80,
+      "replacement": "already",
+      "text": "still",
+      "ws": " "
+    }
+  },
+  [],
+  [],
+  [],
+  []
+]

@@ -1,0 +1,30 @@
+:root{
+    --gray-text-colour: #515151;
+    --light-blue-bg-colour: rgb(30, 191, 232);
+    --green-colour: #71BF4B;
+    --green-colour-25: rgba(113, 191, 79, 0.4);
+    --red-colour: #EF3E43;
+    --red-colour-30: rgba(239, 62, 67, 0.3);
+    --blue-colour: #1EBFE8;
+    --blue-colour-50: #D3EDF8;
+    --orange-colour: #FBB157;
+    --orange-colour-50: rgba(251, 177, 87, 0.51);
+}
+
+.hideHighlighting{
+    border-bottom: none !important ;
+}
+.optimizedWord{
+    border-bottom: 2px solid var(--blue-colour) ;
+}
+.arSpellingGrammar{
+    border-bottom: 2px solid var(--red-colour) ;
+}
+
+.complianceWord{
+    border-bottom: double var(--red-colour) ;
+}
+.arParagraphLength{
+    border: none !important;
+    background-color: var(--orange-colour-50);
+}

@@ -1,0 +1,142 @@
+<div style="display: none;" id="awScoreReminder">
+    <h2></h2>
+</div>
+
+<div id="AW-staticBlock">
+    <div id="staticBlock" class="ar-selectAudSlider_WP">
+        <h5>SELECT TARGET AUDIENCE
+								<span class="pull-right">
+									<i class="fa fa-question-circle ar_info" title="Click on a circle below to select your target audience."></i>
+								</span>
+        </h5>
+
+        <div id="targetAudienceWrapper">
+            <div class="targetAudienceCircles text-center">
+                <ul id="audCircleList" class="list-unstyled list-inline">
+                    <li class="generalAudCircle audCircle active" data-audid="5"><i class="fa color-aud-General fa-circle fa-3x"></i></li>
+                    <li class="knowledgeableAudCircle audCircle" data-audid="4"><i class="fa fa-circle fa-3x color-aud-Knowledgeable"></i></li>
+                    <li class="specialistAudCircle audCircle" data-audid="3"><i class="fa fa-circle fa-3x color-aud-Specialist"></i></li>
+                    <li class="academicAudCircle audCircle" data-audid="2"><i class="fa fa-circle fa-3x color-aud-Academic"></i></li>
+                    <li class="geniusAudCircle audCircle" data-audid="1"><i class="fa fa-circle fa-3x color-aud-Genius"></i></li>
+                </ul>
+            </div>
+            <div class="targetAudienceBox">
+                <div class="top_arrow_box" data-audid="5">
+                    <div class="generalRelText audienceRelText" data-audid="5">
+                        <h5>General</h5>
+
+                        <p class="text-muted">A beginner level understanding of the content or theme.</p>
+                        <span class="arlabel label-default">Beginner</span>
+                        <span class="arlabel label-default">Novice</span>
+                        <span class="arlabel label-default">Basic</span>
+                    </div>
+                    <div style="display: none;" class="knowledgeableRelText audienceRelText" data-audid="4">
+                        <h5>Knowledgeable</h5>
+
+                        <p class="text-muted">A competent understanding of the content or theme.</p>
+                        <span class="arlabel label-default">Aware</span>
+                        <span class="arlabel label-default">Familiar</span>
+                        <span class="arlabel label-default">Informed</span>
+                    </div>
+                    <div style="display: none;" class="specialistRelText audienceRelText" data-audid="3">
+                        <h5>Specialist</h5>
+
+                        <p class="text-muted">A proficient understanding of the content or theme.</p>
+                        <span class="arlabel label-default">Advanced</span>
+                        <span class="arlabel label-default">Trained</span>
+                        <span class="arlabel label-default">Well-versed</span>
+                    </div>
+                    <div style="display: none;" class="academicRelText audienceRelText" data-audid="2">
+                        <h5>Academic</h5>
+
+                        <p class="text-muted">A superior understanding of the content or theme.</p>
+                        <span class="arlabel label-default">Scholarly</span>
+                        <span class="arlabel label-default">Collegiate</span>
+                        <span class="arlabel label-default">Masterful</span>
+                    </div>
+                    <div style="display: none;" class="geniusRelText audienceRelText" data-audid="1">
+                        <h5>Genius</h5>
+
+                        <p class="text-muted">An expert understanding of the content or theme.</p>
+                        <span class="arlabel label-default">Expert</span>
+                        <span class="arlabel label-default">Brilliant</span>
+                        <span class="arlabel label-default">Intellectual</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="arAnalyze_WP border-bottom">
+
+        <div id="arAudDetails" style="display:none;">
+            <h5 id="scoreTime">ARTICLE SCORE
+                <small></small>
+                <i class="fa fa-question-circle pull-right ar_info" title="This is the score for your article and how it measures up against the Atomic measures."></i>
+            </h5>
+
+            <div style="margin-left: 40%;" id="scoreBubble">
+                <span>40</span>
+            </div>
+
+            <div id="scoreBarWrapper" class="progress">
+
+                <div id="scoreBar" class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+
+                </div>
+            </div>
+            <div id="atomicScoreIndicator" class="list-group">
+                <div class="text-center">
+                    <!--<i  class="fa fa-long-arrow-up"></i>-->
+                    <i style="vertical-align: super;" class="fa fa-long-arrow-up" aria-hidden="true"></i>
+                    <!--<span class="dashicons dashicons-arrow-up-alt"></span>-->
+                </div>
+                <div style="margin-top: -10px; ">
+                    <img src="../wp-content/plugins/atomic-reach-audience-engager/custom/imgs/ar-logo-icon.png" height="16px" style="vertical-align: bottom;margin-right: 2px;">
+                    <small style="vertical-align: bottom; margin-left: 1px;;"><strong>64</strong></small>
+                </div>
+
+
+            </div>
+
+            <div style="padding-top: 20px;" id="scoreComment">
+                <p id="notHIT" class="text-center">You're almost there! Try to hit your Atomic Score.</p>
+                <p id="HIT" class="text-center" style="display: none;">Nice job! You hit your Atomic Score.</p>
+
+                <div id="ar-upgrade-score">
+                    <p id="BELOW50" class="text-center" style="display: none;"><strong>Your content scored below 50.</strong> Upgrade to see the exact score. <br> <a href="https://my.atomicreach.com/cs/account#plan" target="_blank"><button class="btn atomicOrange">UPGRADE</button></a> </p>
+                    <p id="ABOVE50" class="text-center" style="display: none;"><strong>Your content scored above 50.</strong> Upgrade to see the exact score. <br> <a href="https://my.atomicreach.com/cs/account#plan" target="_blank"><button class="btn atomicOrange">UPGRADE</button></a> </p>
+                </div>
+
+            </div>
+        <p class="text-center ar_info" title="Your content's target score. Hit and/or exceed it and connect with bigger audiences.">
+            <a href="javascript: void(0)" style="color: #2D3844;">What's this?</a>
+        </p>
+        </div>
+
+        <!--<button style="margin: 10px auto !important;cursor: pointer" class="arScoreBtn_WP" id="arScore_WP">Get Editing Feedback</button>-->
+        <button id="arScore_WP" class="btn atomicOrange btn-lg btn-block">SCORE CONTENT</button>
+    </div>
+</div>
+<!--<div id="awloadingBlock" style="display: none;">-->
+<!--<img src="../wp-content/plugins/atomic-reach-audience-engager/custom/imgs/loading_anime.gif.gif" alt="loading" id="awLoading"/>-->
+
+<!--<h3>Hang on tight, your feedback is coming right up!</h3>-->
+<!--</div>-->
+
+
+<div id="awloadingBlock" style="display: none;">
+    <p style="margin-bottom: 20px; padding-bottom: 20px;" class="text-center border-bottom"><i class="fa fa-circle-o-notch fa-spin fa-5x text-orange"></i> <br>
+        Calculating your score <br>
+        This only takes a few seconds!
+    </p>
+
+    <blockquote class="randomQuote no-border">
+        <p></p>
+        <div class="quoteFooter"></div>
+    </blockquote>
+
+
+</div>
+
+
+<div id="right-score" style="display: none;"></div>

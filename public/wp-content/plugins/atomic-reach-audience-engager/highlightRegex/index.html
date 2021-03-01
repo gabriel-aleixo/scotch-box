@@ -1,0 +1,87 @@
+<html>
+<head>
+  <title>jQuery.highlightRegex() demonstration</title>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+  <script src="highlightRegex.js"></script>
+  <script type='text/javascript'>
+     //<![CDATA[
+       $(function() {
+         $('#toggle-link').toggle(function(){
+           // regex = /[aeiou]/ig
+           regex = /text | be | regex/ig
+           $('#regex').text(regex);
+           $('article').highlightRegex(regex);
+           $(this).text("click to clear");
+         }, function(){
+           $('article').highlightRegex();
+           $(this).text('click to re-highlight');
+         })
+         
+         $('#fancy-input').keyup(function(){
+           var regex;
+           $('#fancy-text').highlightRegex();
+           try { regex = new RegExp($(this).val(), 'ig') }
+           catch (e) { $('#fancy-input').addClass('error') }
+
+           if (typeof regex !== 'undefined') {
+             $(this).removeClass('error');
+             if ($(this).val() != '')
+               $('#fancy-text').highlightRegex(regex);
+           }
+         })
+       });
+     //]]>
+   </script>
+   <style>
+    .highlight {
+      background: red;
+      text-decoration: underline;
+      color:white;
+    }
+    
+    #fancy-text {
+      float: left;
+      padding:10px;
+      margin: 0 10px 20px ;
+      border: 3px double red;
+    }
+    
+    #fancy-input {
+      font-size: 100%;
+      background: #ABC;
+    }
+
+    #fancy-input.error {
+      background: red;
+    }
+    
+    #input {
+      clear:left;
+      font-size: 200%;
+    }
+   </style>
+</head>
+
+<body>
+  <h1> jQuery highlightRegex Demonstration</h1>
+  <h2> Static </h2>
+  <div id="content">This is some text that will be highlighted with the regex</div>
+  
+    <article><img width="290" height="307" data-mce-src="http://www.newyorker.com/online/blogs/sportingscene/cardenas-290.jpg" src="http://www.newyorker.com/online/blogs/sportingscene/cardenas-290.jpg" alt="cardenas-290.jpg">After Mariano Rivera, unarguably <a data-mce-href="http://mlb.mlb.com/news/article.jsp?ymd=20131024&amp;content_id=63316480&amp;vkey=pr_mlb&amp;c_id=mlb" target="_blank" href="http://mlb.mlb.com/news/article.jsp?ymd=20131024&amp;content_id=63316480&amp;vkey=pr_mlb&amp;c_id=mlb">the greatest closer</a> in baseball history, announced in March that this season would be his last, a fanfare accompanied his arrival at every stadium&mdash;a season-long celebration of Rivera’s retirement. It would be correct to say that I also retired from baseball, but it seems pretentious and unmerited; I quit. I was only twenty-four, healthy and strong, and earning lots of money as a Chicago Cubs rookie pinch hitter, with a decent chance of becoming an everyday starter.When I was eighteen, in 2006, I decided to bypass my college offers and play baseball professionally. I had narrowed my choices to Stanford and Florida, but the Philadelphia Phillies selected me in the first round of the draft&mdash;and gave me nearly a million dollars to join their organization and start working my way to the majors. I spent six years playing minor-league ball in Florida, Texas, California, New Jersey, and Iowa. I was picked for the All-Star Futures Game, which showcases the best minor leaguers; one year I was even rated as the best second baseman in the minor leagues.<div id="entry-more"><p>I made my major-league début with the Cubs on May 7, 2012, as a pinch hitter in the eighth inning of a home game against the Atlanta Braves. I stepped up to the plate with the mixed serum of emotions that every first-timer feels: happy that I had arrived at a place so hard to reach; astounded that I was now playing <em>with</em> the players I had idolized; and determined to keep getting better so that I could take their jobs. I was proud to be standing at the plate in front of so many people; the adrenaline alone made me feel weightless.</p><p>During my first year in the major leagues, I was twice sent back down to the minors. This is common for rookies, especially if their competition for a roster spot is doing well&mdash;and I was playing behind Darwin Barney, who was chasing the record for the most consecutive games at second base without an error. (He <a data-mce-href="http://espn.go.com/chicago/mlb/story/_/id/8437810/" target="_blank" href="http://espn.go.com/chicago/mlb/story/_/id/8437810/">tied the mark</a>, and won a <a data-mce-href="http://mlb.mlb.com/news/article.jsp?ymd=20121029&amp;content_id=40123192&amp;c_id=chc" target="_blank" href="http://mlb.mlb.com/news/article.jsp?ymd=20121029&amp;content_id=40123192&amp;c_id=chc">Gold Glove</a> that year.) A team can only keep twenty-five players on the active roster. But these demotions only fuelled my determination to succeed, and on July 31, 2012, in my first game back in the majors, I was asked to pinch hit against the Pirates’ A. J. Burnett, who had pitched seven and two-thirds innings without giving up a hit.</p><p>At the time, I didn’t know that the Cubs hadn’t given up a no-hitter since Sandy Koufax pitched a perfect game against them on September 9, 1965. I didn’t know that this was the very same year that Koufax refused to pitch the first game of the World Series because it fell on Yom Kippur. I didn’t even know that the Dodgers had originally played in Brooklyn. But there I was, forty-seven years later, standing at the plate with two outs in the bottom of the eighth, trying to preserve a streak I knew nothing about.</p><p>In moments like these, it’s true that a batter doesn’t really hear or feel anything. You master the ability to lose yourself in the game, because that’s what you need to do&mdash;to not be conscious of being conscious. I needed to go back and watch the video clip from that night at Wrigley Field to learn that I watched the first five pitches go by without swinging. The sixth one was a fastball that I lined over the second baseman into right field. I didn’t need a video clip to remember the sound of forty-five thousand fans up on their feet clapping and screaming, vocalizing the excitement that I had to repress as I ran up the first-base line; I had to act like I’d done it before.</p><p>After I made it to the major leagues, I often would recall my years in the minors warmly: the twelve-hour bus rides spent trying to fall asleep on a foam egg crate on the floor only to be thwarted by the bus breaking down (and, once, catching fire), or by the aspiring singer, rapper, or guitarist who thought it best to practice while others slept, or&mdash;worst of all&mdash;by the thick stream of dip juice from a failed attempt at spitting into the garbage. But my teammates weren’t the only reason I couldn’t fall asleep. Sometimes I stayed awake because I liked the sounds of the tires rolling as the driver steered, at questionable speeds, through California, Oregon, Nevada, Kentucky, Nebraska&mdash;the whole country, really. I liked the feeling that came to me in the middle of the night, a haughty confidence that the players on this bus&mdash;my brothers and me&mdash;were the only people awake in the world.</p><p>When you lose yourself in the game, as you must, it’s all too easy to lose your sense of home. It didn’t take long for me to see how it happens, as I became friends with players and heard about the relationships and marriages that broke up, the relatives and close friends who faded from view, the parents or grandparents whose funerals were missed because of an expected call up to the majors. Sometimes I’d stay awake through the night, almost laughing to myself, mentally weighing the small fraction of success against the overshadowing personal and professional failure that comes with being a ballplayer.</p><p>I came to realize that professional baseball players are masochists: hitters stand sixty feet and six inches from the mound, waiting to get hit by a pitcher’s bullets; fielders get sucker punched in the face by bad hops, and then ask for a hundred more. We all fail far more than we succeed, humiliating ourselves in front of tens of thousands of fans, trying to attain the unattainable: batting a thousand, pitching without ever losing, secretly seeking the immortality of the record books. In spite of the torments&mdash;the career-ending injuries, the demotions, the fear of getting “<a data-mce-href="http://en.wikipedia.org/wiki/Wally_Pipp" href="http://en.wikipedia.org/wiki/Wally_Pipp">Wally Pipped</a>”&mdash;we keep rolling our baseball-shaped boulders up the impossible hill of the game, knowing we’ll never reach the top. Baseball is visceral, tragic, and absurd, with only fleeting moments of happiness; it may be the best representation of life. I was, and still am, in love with baseball. But I quit.</p><p>I quit after trying to balance my life as a professional baseball player with my life as a student during the last three years of my career. In the spring and summer, I played ball. In the fall, I studied creative writing and philosophy at New York University. But with every semester that passed, I loved school more than I loved baseball, and eventually I knew I had to choose one over the other. As I submerged myself into an academic environment, I thought often of my parents, who knew nothing about baseball but raised me with a passion for music and language so great that sports seemed irrelevant by comparison.</p><p>I quit because baseball was sacred to me until I started getting paid for it. The more that “baseball” became synonymous with “business,” the less it meant to me, and I saw less of myself in the game every time I got a check from the Philadelphia Phillies Organization, the Oakland Athletic Company, or the Chicago Cubs, L.L.C. To put it simply, other players were much better than I was at separating the game of baseball from the job of baseball. They could enjoy the thrill of a win&mdash;as it should be enjoyed&mdash;without thinking of what it meant to the owners’ bottom lines. These players, at once the objects of my envy and my admiration, are the resilient ones, still in the game. I am no longer one of them.</p><p>Of course, I have regrets. The irony of the business of baseball is that the business has a seriousness that the game lacks: the fortune of a billion-dollar company rests on the shoulders of the twenty-five players competing to hold their spots on the roster, and an enormous pride comes with being one of those players. Now that I’ve quit, I will never again find myself in a position where the stakes are so high and I’m held accountable. I miss that the most. But quitting, for me, was still the right move.</p><p>A few days into the start of this season, my friend Anthony Rizzo, who plays first base for the Cubs, called me to say that he had told A. J. Burnett that the rookie who broke up his no-hitter had retired. Burnett replied, half joking, “I wish the kid had retired one year earlier.”</p><p>Sometimes I wish the same thing. For whatever reason, I was never the sort of player who could enjoy a game, a play, or a hit before moving on to prepare for the next one. It was only after I quit that I wished I hadn’t always kept my head down, relentlessly climbing to reach the top of the game, to fulfill an American dream. I wish I had looked up more often, even at the cost some of my success. The American dream didn’t tell me that an experience only matters if I acknowledge it, that losing yourself in the game is a good way to lose what makes life meaningful. When you’re standing at the plate and you hit a sharp foul ball to the backstop, the spot on the bat that made contact gets hot; the American dream forgot to tell me to step back and enjoy the smell of burnt wood.</p><p><em>The writer breaks up A. J. Burnett’s no-hitter with a pinch-hit single on July 31, 2012. Photograph by Jonathan Daniel/Getty.</em></p></div></article>  
+  
+  
+  
+  <a href='#' id='toggle-link'>click to highlight</a>
+  <hr/>
+  <h2> Dynamic </h2>
+  <div id='fancy-text'>
+    <h3>Type in the input field below to highlight anything in this outlined box.</h3>
+    <code><pre>(case insensitive and global)</code></pre>
+    <ul>
+      <li> You can use regular expressions.</li>
+      <li> It highlights children nodes recursively. </li>
+    </ul>
+  </div>
+  <div id='input'>Type Here: /<input type='text' id='fancy-input'/>/ig</div>
+</body>
+</html>
